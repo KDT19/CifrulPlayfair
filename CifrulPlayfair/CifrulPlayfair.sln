@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CifrulPlayfair", "CifrulPlayfair\CifrulPlayfair.csproj", "{4AC21671-A48F-4AD7-89C2-BAAB3CD27A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC21671-A48F-4AD7-89C2-BAAB3CD27A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC21671-A48F-4AD7-89C2-BAAB3CD27A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC21671-A48F-4AD7-89C2-BAAB3CD27A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC21671-A48F-4AD7-89C2-BAAB3CD27A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50F9ED48-1E8B-4112-875A-B3E82ECF30F6}
+	EndGlobalSection
+EndGlobal

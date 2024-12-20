@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CifrulPlayfair\CifrulPlayfair\bin\Debug\CifrulPlayfair.exe.config
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CifrulPlayfair\CifrulPlayfair\bin\Debug\CifrulPlayfair.exe
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CifrulPlayfair\CifrulPlayfair\bin\Debug\CifrulPlayfair.pdb
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CifrulPlayfair\CifrulPlayfair\obj\Debug\CifrulPlayfair.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CifrulPlayfair\CifrulPlayfair\obj\Debug\CifrulPlayfair.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CifrulPlayfair\CifrulPlayfair\obj\Debug\CifrulPlayfair.exe
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\CifrulPlayfair\CifrulPlayfair\obj\Debug\CifrulPlayfair.pdb
